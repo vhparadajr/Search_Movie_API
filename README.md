@@ -1,6 +1,6 @@
 # Search_Movie_API
 
-An app for searching a movie by title and get poster and short director bio. 
+An app for searching a movie by title. Use's 2 seperate API's to get poster and short director bio. 
 
 ![alt tag](https://i.imgur.com/tMPnJwF.png)
 
